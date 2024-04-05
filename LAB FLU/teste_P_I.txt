@@ -1,0 +1,6 @@
+numero de medidas: 5
+altura 1: 5
+altura 2: 10
+altura 3: 10
+altura 4: 10
+altura 5: 5
